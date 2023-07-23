@@ -1,4 +1,4 @@
-package org.cdac.domain;
+package in.vaibhav.domain;
 
 import java.util.Arrays;
 import java.util.Scanner;
