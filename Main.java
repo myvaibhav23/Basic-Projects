@@ -1,4 +1,4 @@
-package in.Vaibhav.res;
+package in.vaibhav.res;
 
 import java.util.Scanner;
 
