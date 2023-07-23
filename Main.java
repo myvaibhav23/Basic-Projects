@@ -1,8 +1,8 @@
-package org.cdac.res;
+package in.Vaibhav.res;
 
 import java.util.Scanner;
 
-import org.cdac.domain.Restuarant;
+import in.Vaibhav.domain.Restuarant;
 
 public class Main {
 	private static Scanner sc = new Scanner(System.in);
